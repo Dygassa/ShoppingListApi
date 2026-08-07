@@ -1,0 +1,9 @@
+DROP SCHEMA IF EXISTS [System];
+GO
+CREATE SCHEMA [System];
+GO
+
+DROP SCHEMA IF EXISTS [General];
+GO
+CREATE SCHEMA [General];
+GO
